@@ -1,0 +1,14 @@
+Putting the price sorting on its own form is an interesting demonstration of technical prowess, 
+but it feels like an odd decision and breaks up the flow of the interface.
+
+For both unit and price sort, it would feel much more natural to switch the 'more than' and 
+'less than' fields to make it match the ascending order of the grid view.
+
+I also feel like I should have gotten an error when I intentionally placed the numbers backwards 
+to test it. Defaulting to 'less than' may be confusing for end users.
+
+There could afford to be more comments in the code, and names could be more verbose as well. 
+The code is a little hard to follow with limited comments and shortened names.
+
+Some more information on what difficulties were faced with the existing columns in Form2 would 
+have been helpful, I'm not sure why manually re-creating the columns was necessary.
