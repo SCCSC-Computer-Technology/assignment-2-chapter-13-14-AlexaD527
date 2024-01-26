@@ -1,0 +1,3 @@
+I think that commenting the purpose of each LINQ query would have been helpful documentation to understand what is happening and where at a glance. I think the both forms text properties should have been changed to something descriptive about the forms. It may have been useful to have tool tips on the forms.
+The way the product grid view is positioned and sized on Form1 makes it difficult for the user to see all the data available at one time. There was also no way to reset the data grid view to go back to view all the data at one time.
+Our solutions were different in that this one used two forms to display data searches. I like just using one so that users can see any searches in one place.
