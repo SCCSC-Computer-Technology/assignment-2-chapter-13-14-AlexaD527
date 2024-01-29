@@ -1,0 +1,10 @@
+[] The code compiles with no warnings and the data grid populates on startup.
+[] The method and variable names are descriptive. Your comments are like mine, where you don't bother re-explaining something already covered.
+[] I did not see unused or repetitive code.
+[] Leaving empty fields does not generate dialog message, but returning zero matches does, which I think works fine.
+[] The only issue I found was how the price range works. If you only use one field it works fine, not set up to work as a range.
+I think you would have to parse out both fields first, then just do a single query statement that has two where clauses.
+[] I like that you did not clear the fields after running queries, because the user can go back to a previous search more easily.
+[] I did not reset the grid view if a button is clicked while having a blank field like you did. I ended up putting a reset button instead.
+The advantage to yours is that it does bog the user down with error messages and keeps the code cleaner, its also one less button.
+I think the only advantage to my solution is having a unique dialog depending on the situation. I believe it to be a matter of preference though.
