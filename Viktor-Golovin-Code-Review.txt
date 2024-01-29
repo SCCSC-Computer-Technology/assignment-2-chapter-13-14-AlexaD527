@@ -1,0 +1,5 @@
+The Code works and compiles with no issues. 
+I like the variable and method names.
+The comments are clear and I can read and understand everything. 
+Overall a good program, works and clear with good comments. 
+Everything is clear and easy to use. 
