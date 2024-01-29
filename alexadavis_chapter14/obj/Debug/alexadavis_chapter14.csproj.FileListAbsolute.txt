@@ -1,0 +1,13 @@
+C:\Users\alexa\source\repos\alexadavis_chapter14\bin\Debug\ProductDB.mdf
+C:\Users\alexa\source\repos\alexadavis_chapter14\bin\Debug\ProductDB_log.ldf
+C:\Users\alexa\source\repos\alexadavis_chapter14\bin\Debug\alexadavis_chapter14.exe.config
+C:\Users\alexa\source\repos\alexadavis_chapter14\bin\Debug\alexadavis_chapter14.exe
+C:\Users\alexa\source\repos\alexadavis_chapter14\bin\Debug\alexadavis_chapter14.pdb
+C:\Users\alexa\source\repos\alexadavis_chapter14\obj\Debug\alexadavis_chapter14.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\alexadavis_chapter14\obj\Debug\alexadavis_chapter14.Form1.resources
+C:\Users\alexa\source\repos\alexadavis_chapter14\obj\Debug\alexadavis_chapter14.Properties.Resources.resources
+C:\Users\alexa\source\repos\alexadavis_chapter14\obj\Debug\alexadavis_chapter14.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\alexadavis_chapter14\obj\Debug\alexadavis_chapter14.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\alexadavis_chapter14\obj\Debug\alexadavis_chapter14.exe
+C:\Users\alexa\source\repos\alexadavis_chapter14\obj\Debug\alexadavis_chapter14.pdb
+C:\Users\alexa\source\repos\alexadavis_chapter14\obj\Debug\alexadavis_chapter14.Form2.resources
