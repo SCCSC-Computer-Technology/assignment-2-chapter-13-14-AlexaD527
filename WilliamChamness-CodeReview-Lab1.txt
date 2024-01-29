@@ -1,0 +1,3 @@
+The code compiles, is readable, and is well-documented. My only complaint is that the "units" variable in the "units_Click()" function is used for both minimum and maximum units. Although this solution works, I think that being more explicit with variable names would greatly increase the readability of this function.
+
+All edge-cases are taken into account as far as I can tell. One way our code differed was that if the user entered data into the "Less Than" textbox, the "More Than" textbox would not be used regardless of the user's input in your code. I don't prefer either of our approaches, but entering values into the textboxes did confuse me at first as a user.
