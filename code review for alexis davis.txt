@@ -1,0 +1,55 @@
+Code review for Alexis Davis:
+Anna Stefanacci
+
+Code Compilation and Warnings:
+
+- When I attempted to run the code, I received a build error. After further inspect it was telling me: "couldn't process file Form1.resx due to its being in the Internet or restricted zone". After I continued to run it, I did not recieve any issues.
+
+Readability and Documentation:
+
+- I understood what you were trying to do, and the comments that were already written helped - I would recommend adding more to improve readability and documentation.
+
+Repetitive Code and Dead Code:
+
+- There are a few lines of repetitive code under Form2, where you are manually clearing the columns. 
+
+Software Defects and Testing:
+
+- As I stated before, when I first went to run it, I recieved build errors but was able to run it. I revieved no further errors. 
+
+Appropriateness of Framework and Code Usage:
+
+- The code's use of LINQ is good and the logic is all correct. 
+
+Constructive Feedback:
+
+- Overall great code, but I do have a few suggestions to improve:
+- Make sure to set your form positions to CenterScreen (it is under properties > layout > start position). A very small thing, but overall helps to check off all of Mr. Thompson's robost code boxes ;) (I forget too sometimes..)
+- I would also include more comments to enhance readability as well as an implementing a way to clear your columns. I used listBoxResults.Items.Clear();.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
